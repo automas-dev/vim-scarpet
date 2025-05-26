@@ -14,7 +14,7 @@ For [vim-plug](https://github.com/junegunn/vim-plug) add the following to your
 `.vimrc` or `.config/nvim/init.vim`
 
 ```vim
-Plug 'twh2898/vim-scarpet'
+Plug 'automas-dev/vim-scarpet'
 ```
 
 and then restart Vim / Neovim and run `:PlugInstall`.
